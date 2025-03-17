@@ -1,7 +1,3 @@
-Here’s a README file for your simple calculator project:  
-
----
-
 # Simple Calculator  
 
 ## Overview  
@@ -43,5 +39,3 @@ This project is licensed under the MIT License.
 
 ## Contact  
 For any inquiries or suggestions, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chirath-prashastha2004/) or open an issue in this repository!  
-
----
